@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple e-commerce website designed to sell shoes online. Built with HTML, CSS, and the .NET Framework, it includes a fully functional backend supported by SQL databases. The application demonstrates core functionalities expected from an online store, such as user authentication, product browsing, shopping cart management, and administrative control.
+This project is an e-commerce website designed to sell shoes online. Built with HTML, CSS, and the .NET Framework, it includes a fully functional backend supported by SQL databases. The application demonstrates core functionalities expected from an online store, such as user authentication, product browsing, shopping cart management, and administrative control.
 
 This project is ideal for showcasing your full-stack development capabilities to potential employers.
 
