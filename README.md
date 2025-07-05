@@ -38,7 +38,7 @@ This project is ideal for showcasing your full-stack development capabilities to
 
 ## Screenshots
 
-![Alt text](/screenshots/home_page.png?raw=true "Home Page")
+![Alt text](screenshots/home_page.png?raw=true "Home Page")
 
 ## Potential Enhancements
 
